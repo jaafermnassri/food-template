@@ -2,7 +2,7 @@
 This is a modern, responsive, and fully customizable Restaurant & Food Website Template built with HTML, CSS, and JavaScript. Ideal for cafes, restaurants, food delivery services, or any food-related business looking to establish a strong online presence.
 
 🌐 Live Demo
-👉 View Live Demo
+👉 <a href="https://food-template-jaafer.netlify.app/">View Live Demo</a>
 
 📦 GitHub Repository
 🔗 GitHub Project
